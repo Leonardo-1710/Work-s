@@ -1,0 +1,3 @@
+1-Inicio
+2- Pedir dois numeros inteiros em paragrafos diferentes e somar os dois
+3-Fim
